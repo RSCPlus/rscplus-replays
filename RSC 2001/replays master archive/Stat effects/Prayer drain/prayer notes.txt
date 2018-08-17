@@ -1,0 +1,26 @@
+Ammy: 8 , 6 , 3
+
+Body: 6, 4, 3, 3
+
+Legs: 5, 4, 3, 3
+
+Maximum Prayer Bonus
+
+Amulet: Holy symbol of Saradomin (8)
+
+Body: Monk's robe top (6)
+
+Legs: Monk's robe bottom (5) 
+
+3, 4, 5, 6, (7), 8, (9), (10), (11), (12), (13), (14), (15), (16), (17), (18), (19) 
+[3][4][5]3  [7]  4   3    5    [11]   4,3  [13]    7   [15]  4,[8] [17]  3,[9]  [19]
+3,4,5,
+
+Prayer restore potions increase prayer by (Level * 0.25 + 7) points. To get the maximum Restore prayer potion effect of 31, player would need level 96 Prayer. 
+
+
+prayer-dr60-level 28 steel skin - no prayer bonus- (level 70 pray)
+
+prayer-dr10-level 22 rapid heal - no prayer bonus- (level 70 pray)(not to 0pp)
+prayer-dr10-level 22 rapid heal - no prayer bonus- (level 80 pray)(not to 0pp)
+prayer-dr10-level 22 rapid heal - no prayer bonus- (level 83 pray)(not to 0pp)

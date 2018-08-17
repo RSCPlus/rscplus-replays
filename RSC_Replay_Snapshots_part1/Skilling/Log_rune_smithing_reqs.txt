@@ -1,0 +1,322 @@
+[ GAME][01:45:09] login response:64
+[ INFO][01:45:09] (3) Type ::help for a list of commands
+[ INFO][01:45:09] (3) Open the settings with CTRL + O or right-click the tray icon
+[ INFO][01:45:09] (3) A new version of RSC+ is available!
+[ INFO][01:45:09] (3) The latest version is 20180703.045217
+[ INFO][01:45:09] (3) ~034~ Your version is 20180702.060831
+[ INFO][01:45:09] (3) ~034~ You will receive the update next time you restart rscplus
+[ INFO][01:45:09] (3) Welcome to RuneScape!
+[ INFO][01:47:42] (3) What would you like to make?
+[ INFO][01:47:42] (8) Make Weapon
+[ INFO][01:47:42] (8) Make Armour
+[ INFO][01:47:42] (8) Make Missile Heads
+[ INFO][01:47:42] (8) Cancel
+[ INFO][01:47:51] (9) Make Weapon
+[ INFO][01:47:51] (3) Choose a type of weapon to make
+[ INFO][01:47:51] (8) Dagger
+[ INFO][01:47:51] (8) Throwing Knife
+[ INFO][01:47:51] (8) Sword
+[ INFO][01:47:51] (8) Axe
+[ INFO][01:47:51] (8) Mace
+[ INFO][01:47:53] (9) Axe
+[ INFO][01:47:54] (3) What sort of axe do you want to make?
+[ INFO][01:47:54] (8) Hatchet
+[ INFO][01:47:54] (8) Battle Axe (3 bars)
+[ INFO][01:47:55] (9) Hatchet
+[ INFO][01:47:55] (0) You need to be at least level 86 smithing to do that
+[ INFO][01:48:02] (3) What would you like to make?
+[ INFO][01:48:02] (8) Make Weapon
+[ INFO][01:48:02] (8) Make Armour
+[ INFO][01:48:02] (8) Make Missile Heads
+[ INFO][01:48:02] (8) Cancel
+[ INFO][01:48:04] (9) Make Weapon
+[ INFO][01:48:04] (3) Choose a type of weapon to make
+[ INFO][01:48:04] (8) Dagger
+[ INFO][01:48:04] (8) Throwing Knife
+[ INFO][01:48:04] (8) Sword
+[ INFO][01:48:04] (8) Axe
+[ INFO][01:48:04] (8) Mace
+[ INFO][01:48:07] (9) Mace
+[ INFO][01:48:07] (0) You need to be at least level 87 smithing to do that
+[ INFO][01:48:12] (3) What would you like to make?
+[ INFO][01:48:12] (8) Make Weapon
+[ INFO][01:48:12] (8) Make Armour
+[ INFO][01:48:12] (8) Make Missile Heads
+[ INFO][01:48:12] (8) Cancel
+[ INFO][01:48:14] (9) Make Armour
+[ INFO][01:48:14] (3) Choose a type of armour to make
+[ INFO][01:48:14] (8) Helmet
+[ INFO][01:48:14] (8) Shield
+[ INFO][01:48:14] (8) Armour
+[ INFO][01:48:15] (9) Helmet
+[ INFO][01:48:16] (3) What sort of helmet do you want to make?
+[ INFO][01:48:16] (8) Medium Helmet
+[ INFO][01:48:16] (8) Large Helmet (2 bars)
+[ INFO][01:48:18] (9) Medium Helmet
+[ INFO][01:48:18] (0) You need to be at least level 88 smithing to do that
+[ INFO][01:48:21] (3) What would you like to make?
+[ INFO][01:48:21] (8) Make Weapon
+[ INFO][01:48:21] (8) Make Armour
+[ INFO][01:48:21] (8) Make Missile Heads
+[ INFO][01:48:21] (8) Cancel
+[ INFO][01:48:28] (9) Make Weapon
+[ INFO][01:48:28] (3) Choose a type of weapon to make
+[ INFO][01:48:28] (8) Dagger
+[ INFO][01:48:28] (8) Throwing Knife
+[ INFO][01:48:28] (8) Sword
+[ INFO][01:48:28] (8) Axe
+[ INFO][01:48:28] (8) Mace
+[ INFO][01:48:29] (9) Sword
+[ INFO][01:48:30] (3) What sort of sword do you want to make?
+[ INFO][01:48:30] (8) Short sword
+[ INFO][01:48:30] (8) Long sword (2 bars)
+[ INFO][01:48:30] (8) Scimitar (2 bars)
+[ INFO][01:48:30] (8) 2-handed sword (3 bars)
+[ INFO][01:48:40] (9) Short sword
+[ INFO][01:48:40] (0) You need to be at least level 89 smithing to do that
+[ INFO][01:49:22] (3) What would you like to make?
+[ INFO][01:49:22] (8) Make Weapon
+[ INFO][01:49:22] (8) Make Armour
+[ INFO][01:49:22] (8) Make Missile Heads
+[ INFO][01:49:22] (8) Cancel
+[ INFO][01:49:24] (9) Make Missile Heads
+[ INFO][01:49:25] (8) Make Arrow Heads.
+[ INFO][01:49:25] (8) Forge Dart Tips.
+[ INFO][01:49:25] (8) Cancel.
+[ INFO][01:49:26] (9) Forge Dart Tips.
+[ INFO][01:49:26] (0) You need to be at least level 89 smithing to do that
+[ INFO][01:49:30] (3) What would you like to make?
+[ INFO][01:49:30] (8) Make Weapon
+[ INFO][01:49:30] (8) Make Armour
+[ INFO][01:49:30] (8) Make Missile Heads
+[ INFO][01:49:30] (8) Cancel
+[ INFO][01:49:32] (9) Make Missile Heads
+[ INFO][01:49:33] (8) Make Arrow Heads.
+[ INFO][01:49:33] (8) Forge Dart Tips.
+[ INFO][01:49:33] (8) Cancel.
+[ INFO][01:49:34] (9) Make Arrow Heads.
+[ INFO][01:49:35] (0) You need to be at least level 90 smithing to do that
+[ INFO][01:49:37] (3) What would you like to make?
+[ INFO][01:49:37] (8) Make Weapon
+[ INFO][01:49:37] (8) Make Armour
+[ INFO][01:49:37] (8) Make Missile Heads
+[ INFO][01:49:37] (8) Cancel
+[ INFO][01:49:39] (9) Make Weapon
+[ INFO][01:49:39] (3) Choose a type of weapon to make
+[ INFO][01:49:39] (8) Dagger
+[ INFO][01:49:39] (8) Throwing Knife
+[ INFO][01:49:39] (8) Sword
+[ INFO][01:49:39] (8) Axe
+[ INFO][01:49:39] (8) Mace
+[ INFO][01:49:43] (9) Sword
+[ INFO][01:49:44] (3) What sort of sword do you want to make?
+[ INFO][01:49:44] (8) Short sword
+[ INFO][01:49:44] (8) Long sword (2 bars)
+[ INFO][01:49:44] (8) Scimitar (2 bars)
+[ INFO][01:49:44] (8) 2-handed sword (3 bars)
+[ INFO][01:49:45] (9) Scimitar (2 bars)
+[ INFO][01:49:46] (0) You need to be at least level 90 smithing to do that
+[ INFO][01:49:49] (3) What would you like to make?
+[ INFO][01:49:49] (8) Make Weapon
+[ INFO][01:49:49] (8) Make Armour
+[ INFO][01:49:49] (8) Make Missile Heads
+[ INFO][01:49:49] (8) Cancel
+[ INFO][01:49:51] (9) Make Weapon
+[ INFO][01:49:52] (3) Choose a type of weapon to make
+[ INFO][01:49:52] (8) Dagger
+[ INFO][01:49:52] (8) Throwing Knife
+[ INFO][01:49:52] (8) Sword
+[ INFO][01:49:52] (8) Axe
+[ INFO][01:49:52] (8) Mace
+[ INFO][01:49:53] (9) Sword
+[ INFO][01:49:53] (3) What sort of sword do you want to make?
+[ INFO][01:49:53] (8) Short sword
+[ INFO][01:49:53] (8) Long sword (2 bars)
+[ INFO][01:49:53] (8) Scimitar (2 bars)
+[ INFO][01:49:53] (8) 2-handed sword (3 bars)
+[ INFO][01:49:55] (9) Long sword (2 bars)
+[ INFO][01:49:56] (0) You need to be at least level 91 smithing to do that
+[ INFO][01:49:58] (3) What would you like to make?
+[ INFO][01:49:58] (8) Make Weapon
+[ INFO][01:49:58] (8) Make Armour
+[ INFO][01:49:58] (8) Make Missile Heads
+[ INFO][01:49:58] (8) Cancel
+[ INFO][01:50:08] (9) Make Armour
+[ INFO][01:50:09] (3) Choose a type of armour to make
+[ INFO][01:50:09] (8) Helmet
+[ INFO][01:50:09] (8) Shield
+[ INFO][01:50:09] (8) Armour
+[ INFO][01:50:10] (9) Helmet
+[ INFO][01:50:10] (3) What sort of helmet do you want to make?
+[ INFO][01:50:10] (8) Medium Helmet
+[ INFO][01:50:10] (8) Large Helmet (2 bars)
+[ INFO][01:50:11] (9) Large Helmet (2 bars)
+[ INFO][01:50:12] (0) You need to be at least level 92 smithing to do that
+[ INFO][01:50:18] (3) What would you like to make?
+[ INFO][01:50:18] (8) Make Weapon
+[ INFO][01:50:18] (8) Make Armour
+[ INFO][01:50:18] (8) Make Missile Heads
+[ INFO][01:50:18] (8) Cancel
+[ INFO][01:50:21] (9) Make Weapon
+[ INFO][01:50:21] (3) Choose a type of weapon to make
+[ INFO][01:50:21] (8) Dagger
+[ INFO][01:50:21] (8) Throwing Knife
+[ INFO][01:50:21] (8) Sword
+[ INFO][01:50:21] (8) Axe
+[ INFO][01:50:21] (8) Mace
+[ INFO][01:50:23] (9) Throwing Knife
+[ INFO][01:50:23] (0) You need to be at least level 92 smithing to do that
+[ INFO][01:50:27] (3) What would you like to make?
+[ INFO][01:50:27] (8) Make Weapon
+[ INFO][01:50:27] (8) Make Armour
+[ INFO][01:50:27] (8) Make Missile Heads
+[ INFO][01:50:27] (8) Cancel
+[ INFO][01:50:29] (9) Make Armour
+[ INFO][01:50:29] (3) Choose a type of armour to make
+[ INFO][01:50:29] (8) Helmet
+[ INFO][01:50:29] (8) Shield
+[ INFO][01:50:29] (8) Armour
+[ INFO][01:50:30] (9) Shield
+[ INFO][01:50:30] (3) What sort of shield do you want to make?
+[ INFO][01:50:30] (8) Square Shield (2 bars)
+[ INFO][01:50:30] (8) Kite Shield (3 bars)
+[ INFO][01:50:31] (9) Square Shield (2 bars)
+[ INFO][01:50:32] (0) You need to be at least level 93 smithing to do that
+[ INFO][01:50:36] (3) What would you like to make?
+[ INFO][01:50:36] (8) Make Weapon
+[ INFO][01:50:36] (8) Make Armour
+[ INFO][01:50:36] (8) Make Missile Heads
+[ INFO][01:50:36] (8) Cancel
+[ INFO][01:50:41] (9) Make Weapon
+[ INFO][01:50:41] (3) Choose a type of weapon to make
+[ INFO][01:50:41] (8) Dagger
+[ INFO][01:50:41] (8) Throwing Knife
+[ INFO][01:50:41] (8) Sword
+[ INFO][01:50:41] (8) Axe
+[ INFO][01:50:41] (8) Mace
+[ INFO][01:50:43] (9) Axe
+[ INFO][01:50:43] (3) What sort of axe do you want to make?
+[ INFO][01:50:43] (8) Hatchet
+[ INFO][01:50:43] (8) Battle Axe (3 bars)
+[ INFO][01:50:44] (9) Battle Axe (3 bars)
+[ INFO][01:50:45] (0) You need to be at least level 95 smithing to do that
+[ INFO][01:50:47] (3) What would you like to make?
+[ INFO][01:50:47] (8) Make Weapon
+[ INFO][01:50:47] (8) Make Armour
+[ INFO][01:50:47] (8) Make Missile Heads
+[ INFO][01:50:47] (8) Cancel
+[ INFO][01:50:49] (9) Make Armour
+[ INFO][01:50:50] (3) Choose a type of armour to make
+[ INFO][01:50:50] (8) Helmet
+[ INFO][01:50:50] (8) Shield
+[ INFO][01:50:50] (8) Armour
+[ INFO][01:50:54] (9) Armour
+[ INFO][01:50:54] (3) What sort of armour do you want to make?
+[ INFO][01:50:54] (8) Chain mail body (3 bars)
+[ INFO][01:50:54] (8) Plate mail body (5 bars)
+[ INFO][01:50:54] (8) Plate mail legs (3 bars)
+[ INFO][01:50:54] (8) Plated Skirt (3 bars)
+[ INFO][01:50:55] (9) Chain mail body (3 bars)
+[ INFO][01:50:56] (0) You need to be at least level 96 smithing to do that
+[ INFO][01:50:59] (3) What would you like to make?
+[ INFO][01:50:59] (8) Make Weapon
+[ INFO][01:50:59] (8) Make Armour
+[ INFO][01:50:59] (8) Make Missile Heads
+[ INFO][01:50:59] (8) Cancel
+[ INFO][01:51:01] (9) Make Weapon
+[ INFO][01:51:01] (3) Choose a type of weapon to make
+[ INFO][01:51:01] (8) Dagger
+[ INFO][01:51:01] (8) Throwing Knife
+[ INFO][01:51:01] (8) Sword
+[ INFO][01:51:01] (8) Axe
+[ INFO][01:51:01] (8) Mace
+[ INFO][01:51:17] (3) What would you like to make?
+[ INFO][01:51:17] (8) Make Weapon
+[ INFO][01:51:17] (8) Make Armour
+[ INFO][01:51:17] (8) Make Missile Heads
+[ INFO][01:51:17] (8) Cancel
+[ INFO][01:51:19] (9) Make Armour
+[ INFO][01:51:20] (3) Choose a type of armour to make
+[ INFO][01:51:20] (8) Helmet
+[ INFO][01:51:20] (8) Shield
+[ INFO][01:51:20] (8) Armour
+[ INFO][01:51:21] (9) Shield
+[ INFO][01:51:21] (3) What sort of shield do you want to make?
+[ INFO][01:51:21] (8) Square Shield (2 bars)
+[ INFO][01:51:21] (8) Kite Shield (3 bars)
+[ INFO][01:51:22] (9) Kite Shield (3 bars)
+[ INFO][01:51:23] (0) You need to be at least level 97 smithing to do that
+[ INFO][01:51:26] (3) What would you like to make?
+[ INFO][01:51:26] (8) Make Weapon
+[ INFO][01:51:26] (8) Make Armour
+[ INFO][01:51:26] (8) Make Missile Heads
+[ INFO][01:51:26] (8) Cancel
+[ INFO][01:51:32] (9) Make Weapon
+[ INFO][01:51:33] (3) Choose a type of weapon to make
+[ INFO][01:51:33] (8) Dagger
+[ INFO][01:51:33] (8) Throwing Knife
+[ INFO][01:51:33] (8) Sword
+[ INFO][01:51:33] (8) Axe
+[ INFO][01:51:33] (8) Mace
+[ INFO][01:51:34] (9) Sword
+[ INFO][01:51:34] (3) What sort of sword do you want to make?
+[ INFO][01:51:34] (8) Short sword
+[ INFO][01:51:34] (8) Long sword (2 bars)
+[ INFO][01:51:34] (8) Scimitar (2 bars)
+[ INFO][01:51:34] (8) 2-handed sword (3 bars)
+[ INFO][01:51:35] (9) 2-handed sword (3 bars)
+[ INFO][01:51:35] (0) You need to be at least level 99 smithing to do that
+[ INFO][01:51:38] (3) What would you like to make?
+[ INFO][01:51:38] (8) Make Weapon
+[ INFO][01:51:38] (8) Make Armour
+[ INFO][01:51:38] (8) Make Missile Heads
+[ INFO][01:51:38] (8) Cancel
+[ INFO][01:51:39] (9) Make Armour
+[ INFO][01:51:40] (3) Choose a type of armour to make
+[ INFO][01:51:40] (8) Helmet
+[ INFO][01:51:40] (8) Shield
+[ INFO][01:51:40] (8) Armour
+[ INFO][01:51:41] (9) Armour
+[ INFO][01:51:42] (3) What sort of armour do you want to make?
+[ INFO][01:51:42] (8) Chain mail body (3 bars)
+[ INFO][01:51:42] (8) Plate mail body (5 bars)
+[ INFO][01:51:42] (8) Plate mail legs (3 bars)
+[ INFO][01:51:42] (8) Plated Skirt (3 bars)
+[ INFO][01:51:46] (9) Plated Skirt (3 bars)
+[ INFO][01:51:47] (0) You need to be at least level 99 smithing to do that
+[ INFO][01:51:49] (3) What would you like to make?
+[ INFO][01:51:49] (8) Make Weapon
+[ INFO][01:51:49] (8) Make Armour
+[ INFO][01:51:49] (8) Make Missile Heads
+[ INFO][01:51:49] (8) Cancel
+[ INFO][01:51:51] (9) Make Armour
+[ INFO][01:51:51] (3) Choose a type of armour to make
+[ INFO][01:51:51] (8) Helmet
+[ INFO][01:51:51] (8) Shield
+[ INFO][01:51:51] (8) Armour
+[ INFO][01:51:52] (9) Armour
+[ INFO][01:51:53] (3) What sort of armour do you want to make?
+[ INFO][01:51:53] (8) Chain mail body (3 bars)
+[ INFO][01:51:53] (8) Plate mail body (5 bars)
+[ INFO][01:51:53] (8) Plate mail legs (3 bars)
+[ INFO][01:51:53] (8) Plated Skirt (3 bars)
+[ INFO][01:51:54] (9) Plate mail legs (3 bars)
+[ INFO][01:51:55] (0) You need to be at least level 99 smithing to do that
+[ INFO][01:51:57] (3) What would you like to make?
+[ INFO][01:51:57] (8) Make Weapon
+[ INFO][01:51:57] (8) Make Armour
+[ INFO][01:51:57] (8) Make Missile Heads
+[ INFO][01:51:57] (8) Cancel
+[ INFO][01:51:58] (9) Make Armour
+[ INFO][01:51:59] (3) Choose a type of armour to make
+[ INFO][01:51:59] (8) Helmet
+[ INFO][01:51:59] (8) Shield
+[ INFO][01:51:59] (8) Armour
+[ INFO][01:52:00] (9) Armour
+[ INFO][01:52:00] (3) What sort of armour do you want to make?
+[ INFO][01:52:00] (8) Chain mail body (3 bars)
+[ INFO][01:52:00] (8) Plate mail body (5 bars)
+[ INFO][01:52:00] (8) Plate mail legs (3 bars)
+[ INFO][01:52:00] (8) Plated Skirt (3 bars)
+[ INFO][01:52:03] (9) Plate mail body (5 bars)
+[ INFO][01:52:04] (0) You need to be at least level 99 smithing to do that
