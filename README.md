@@ -1,5 +1,5 @@
-### RSC-Plus-Replays
+### rscplus-replays
 
-This serves as a repository of all RSC Plus recordings.
+This serves as a repository of all RSC Plus recordings that remain in their original format and have been publicly released.
 
-Official RSC Plus repository: https://github.com/OrN/rscplus
+Official RSC+ repository: https://github.com/RSCPlus/rscplus
